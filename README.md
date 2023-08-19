@@ -1,7 +1,17 @@
 # Operating Systems Concepts
-**Preface**
-Operating systems are an essential part of any computer system. Similarly, a course on operating systems is an essential part of any computer science education. This eld is undergoing rapid change, as computers are now prevalent in virtually every arena of day-to-day life— from embedded devices in automobiles through the most sophisticated planning tools for governments and multinational rms. Yet the fundamental concepts remain fairly clear, and it is on these that we base this book 
-We wrote this book as a text for an introductory course in operating systems at the junior or senior undergraduate level or the rst-year graduate level. We hope that practitioners will also nd it useful. It provides a clear description of the concepts that underlie operating systems. As prerequisites, we assume that the reader is familiar with basic data structures, computer organization, and a high-level language, such as C or Java. The hardware topics required to understand of operating systems are covered in Chapter 1. In that chapter, we also include an overview of the fundamental data structures that are prevalent in most operating systems. For code examples, we use predominantly C, as well as a signicant amount of Java, but the reader can still understand the algorithms without a thorough knowledge of these languages.
 
-**This Repository**
-This repository contains all my solutions to the different types of exercises in that book.
+This is my summary of the Operating System Concepts, by Abraham Silerschatz, Greg Gagne, and Peter Baer Galvin. This book is considered a decent source to study basic concepts of operating systems while applying what you learn with projects and exercises.
+
+Contributions: Issues, comments and pull requests are super welcome smiley
+
+# Table of Contents
+
+
+<!-- TOC updateOnSave:false -->
+- [Operating Systems Concepts](#operating-systems-concepts)
+- [Table of Contents](#table-of-contents)
+- [Chapter 1. Introduction](01.Introduction/)
+- [Chapter 2. Operating-System Structures](02.Operating-System%20Structures/)
+- [Chapter 3. Processes](03.Processes/)
+- [Chapter 4. Threads and Concurrency](04.Threads%20and%20Concurrecy/)
+<!-- /TOC -->
